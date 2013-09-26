@@ -1,12 +1,12 @@
 senegalhistory-data
 ===================
 
-The data in Senegalhistory are json files, you can always create other files in this folder. 
+The data in Senegalhistory are json files, you can always create others files in this folder. 
 theses files are used by senegalhistory as a data source view 
 https://github.com/senegalouvert/senegalhistory/tree/master/db/okfn
 
-for exmple
-royaumes.json example is a data source used by senegalhistory .it give the history of the kingdoms of senegal:
+for exemple
+royaumes.json(kingdoms.json en english) example is a data source used by senegalhistory .it give the history of the kingdoms of senegal:
 
 
       {
@@ -40,4 +40,4 @@ royaumes.json example is a data source used by senegalhistory .it give the histo
       }
 
 senegalhistory  use the strength of timemapper https://github.com/okfn/timemapper  
-to give an visualization tools and map like this .
+to give an visualization tools and map like this.
