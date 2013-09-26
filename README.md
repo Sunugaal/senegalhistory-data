@@ -6,7 +6,7 @@ theses files are used by senegalhistory as a data source view
 https://github.com/senegalouvert/senegalhistory/tree/master/db/okfn
 
 for exmple
-royaumes.json example is a data source used by senegalhistory .it give the history of the kingdoms of senegal
+royaumes.json example is a data source used by senegalhistory .it give the history of the kingdoms of senegal:
 
 
 {
