@@ -24,6 +24,18 @@
         "location" : {"type": "Point", "coordinates": [-16.47949 , 16.00358]},
         "license" : "GFDL"
       }
+      ,
+      {
+        "id" : "a880106e-ce43-4463-8884-bafe67270aa9",
+        "title" : "Djolof",
+        "image" : "http://upload.wikimedia.org/wikipedia/commons/b/b2/EthniesS%C3%A9n%C3%A9gal.jpg",
+        "description" :
+          "Le Djolof (ou Jolof) était un empire situé dans l'actuel Sénégal qui d'après la tradition fut fondé par Ndiadiane Ndiaye, premier bourba (buur-ba = roi) djolof.Celui-ci avait été élu comme chef dans ce qui allait devenir le royaume du Oualo, au nord-ouest de l'actuel Sénégal, dans la région du fleuve. De là, il réunit toutes les populations d'ethnie wolof pour fonder cet empire au XIIIe siècle. C'est le clan des N'diaye qui dirigea l'empire. Ce patronyme wolof existe toujours aujourd'hui. Les habitants du Djolof, sont appelés les Djolof-Djolof",
+        "source"   : "http://fr.wikipedia.org/wiki/Djolof",
+        "start" : "1853-01-01",
+        "location" : {"type": "Point", "coordinates": [-16.47949 , 16.00358]},
+        "license" : "GFDL"
+      }
     ]
   }]
 }
