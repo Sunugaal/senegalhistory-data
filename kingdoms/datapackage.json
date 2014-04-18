@@ -36,6 +36,18 @@
         "location" : {"type": "Point", "coordinates": [-16.160889, 15.508031]},
         "license" : "GFDL"
       }
+      ,
+      {
+        "id" : "a880106e-ce43-4463-8884-bafe67270ab0",
+        "title" : "",
+        "image" : "",
+        "description" :
+          "",
+        "source"   : "",
+        "start" : "",
+        "location" : {"type": "Point", "coordinates": [-16.160889, 15.508031]},
+        "license" : "GFDL"
+      }
     ]
   }]
 }
